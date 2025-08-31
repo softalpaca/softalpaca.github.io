@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: publications
-description: Below are my publications. L: Lightly-reviewed, C: Full Conference Paper, T: Technical Report, *: indicates co-first authorship
+description: Below are my publications. 
 nav: true
 nav_order: 2
 ---
