@@ -9,7 +9,7 @@ profile:
   image: cherry-blossom-selfie-jp24.jpeg
   image_circular: false # crops the image to make it circular
   more_info: > 
-    <p>Tokyo, Japan '24</p>
+    <p>Tokyo, Japan ('24)</p>
     
     
 
