@@ -8,7 +8,8 @@ profile:
   align: right
   image: cherry-blossom-selfie-jp24.jpeg
   image_circular: false # crops the image to make it circular
-  more_info: > Tokyo, Japan '24
+  more_info: > 
+    <p>Tokyo, Japan '24</p>
     
     
 
