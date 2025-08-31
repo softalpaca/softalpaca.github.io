@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.mpi-sp.org/'>MPI-SP</a> | mindy.tran@mpi-sp.org
+subtitle: <a href='https://www.mpi-sp.org/'>MPI-SP</a> | <a href='mailto:mindy.tran@mpi-sp.org'>mindy.tran@mpi-sp.org</a>
 
 profile:
   align: right
