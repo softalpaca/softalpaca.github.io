@@ -18,7 +18,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-Hi, my name is Mindy Tran. I\'m a PhD student in the [Human-Centered Security and Privacy group](https://yixinzou.github.io/group/) at [Max Planck Institute for Security and Privacy (MPI-SP)](https://www.mpi-sp.org/) where I\'m fortunate to be advised by [Dr. Yixin Zou](https://yixinzou.github.io/). 
+Hi, my name is Mindy Tran. I\'m a PhD student in the [Human-Centered Security and Privacy group](https://yixinzou.github.io/group/) at [Max Planck Institute for Security and Privacy (MPI-SP)](https://www.mpi-sp.org/) where I\'m fortunate to be advised by [Dr. Yixin Zou](https://yixinzou.github.io/).
 
 My research interests are broadly at the intersection of **human-centered security & privacy** and **accessibility**.  I use various research methods, including interviews, co-design, surveys using descriptive statistics, and content analysis. Much of my recent work has centered on the needs of **deaf and hard-of-hearing (DHH) people**, including understanding their security and privacy needs and co-designing accessible security and privacy advice materials. In addition to my research experience, I\'m also passionate about more technical topics that involve software development and building practical solutions.
 
